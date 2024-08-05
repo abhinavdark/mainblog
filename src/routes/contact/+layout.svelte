@@ -8,41 +8,34 @@
 
 <svelte:head>
 	<!-- Primary Meta Tags -->
-	<title>Contact | NotYasho</title>
-	<meta name="title" content="Contact | NotYasho" />
+	<title>Contact | Vegamedia-Blogs</title>
+	<meta name="title" content="Contact | Vegamedia-Blogs" />
 	<meta
 		name="description"
-		content="Official contact page for my website. Contact me through this contact form. (writing these long-ass descriptions is such a pain)"
+		content="Official contact page for my website. Contact us through this contact form. "
 	/>
 
 	<!-- Open Graph / Facebook -->
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://notyasho.netlify.app/contact" />
-	<meta property="og:title" content="Contact | NotYasho" />
+	<meta property="og:title" content="Contact | Vegamedia-Blogs" />
 	<meta
 		property="og:description"
-		content="Official contact page for my website. Contact me through this contact form. (writing these long-ass descriptions is such a pain)"
+		content="Official contact page for my website. Contact me through this contact form. ("
 	/>
-	<meta
-		property="og:image"
-		content="https://raw.githubusercontent.com/NotYasho/notyasho.netlify.app/master/static/img/thumbnails/contact.png"
-	/>
-
+	
 	<!-- Twitter -->
 	<meta
 		property="twitter:card"
 		content="https://raw.githubusercontent.com/NotYasho/notyasho.netlify.app/master/static/img/thumbnails/contact.png"
 	/>
 	<meta property="twitter:url" content="https://notyasho.netlify.app/contact" />
-	<meta property="twitter:title" content="Contact | NotYasho" />
+	<meta property="twitter:title" content="Contact | Vegamedia-Blogs" />
 	<meta
 		property="twitter:description"
-		content="Official contact page for my website. Contact me through this contact form. (writing these long-ass descriptions is such a pain)"
+		content="Official contact page for my website. Contact me through this contact form. "
 	/>
-	<meta
-		property="twitter:image"
-		content="https://raw.githubusercontent.com/NotYasho/notyasho.netlify.app/master/static/img/thumbnails/contact.png"
-	/>
+	
 </svelte:head>
 
 <Header />
