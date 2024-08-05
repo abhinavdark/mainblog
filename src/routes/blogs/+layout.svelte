@@ -14,33 +14,30 @@
 
 <svelte:head>
 	<!-- Primary Meta Tags -->
-	<title>Blogs | NotYasho</title>
-	<meta name="title" content="Blogs | NotYasho" />
+	<title>Blogs | Vegamedia-Blogs</title>
+	<meta name="title" content="Blogs | Vegamedia-Blogs" />
 	<meta
 		name="description"
-		content="Explore all sorts of blogs written by me, be it on programming, graphic design, productivity etc. This my official blog page for my website."
+		content="Explore a diverse range of blogs on Vegamedia, where you can find insightful articles on real estate, private jets, wineries, business, and interior design."
 	/>
-	<meta name="image" content="https://raw.githubusercontent.com/NotYasho/notyasho.netlify.app/master/static/img/thumbnails/blogs.png" />
 
 	<!-- Open Graph / Facebook -->
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://notyasho.netlify.app/blogs" />
-	<meta property="og:title" content="Blogs | NotYasho" />
+	<meta property="og:url" content="https://Vegamedia-Blogs.netlify.app/blogs" />
+	<meta property="og:title" content="Blogs | Vegamedia-Blogs" />
 	<meta
 		property="og:description"
-		content="Explore all sorts of blogs written by me, be it on programming, graphic design, productivity etc. This my official blog page for my website."
+		content="Explore a diverse range of blogs on Vegamedia, where you can find insightful articles on real estate, private jets, wineries, business, and interior design."
 	/>
-	<meta property="og:image" content="https://raw.githubusercontent.com/NotYasho/notyasho.netlify.app/master/static/img/thumbnails/blogs.png" />
 
 	<!-- Twitter -->
 	<meta property="twitter:card" content="summary_large_image" />
-	<meta property="twitter:url" content="https://notyasho.netlify.app/blogs" />
-	<meta property="twitter:title" content="Blogs | NotYasho" />
+	<meta property="twitter:url" content="https://Vegamedia-Blogs.netlify.app/blogs" />
+	<meta property="twitter:title" content="Blogs | Vegamedia-Blogs" />
 	<meta
 		property="twitter:description"
-		content="Explore all sorts of blogs written by me, be it on programming, graphic design, productivity etc. This my official blog page for my website."
+		content="Explore a diverse range of blogs on Vegamedia, where you can find insightful articles on real estate, private jets, wineries, business, and interior design."
 	/>
-	<meta property="twitter:image" content="https://raw.githubusercontent.com/NotYasho/notyasho.netlify.app/master/static/img/thumbnails/blogs.png" />
 </svelte:head>
 
 {#if loaded}
