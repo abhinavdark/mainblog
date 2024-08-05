@@ -7,7 +7,7 @@ import {markdownSchema} from 'sanity-plugin-markdown'
 
 export default defineConfig({
   name: 'default',
-  title: 'NotYasho Blog',
+  title: 'Vegamedia Blog',
 
   projectId: 'u62jjaxi',
   dataset: 'production',
