@@ -43,7 +43,7 @@
 <VanishingHeader duration="350ms" offset={50} tolerance={5}>
 	<header class:open>
 		<div class="logo">
-			<img src="/static/logo.png" alt="Logo" />
+			<img src="/static/favicon.png" alt="Logo" />
 		</div>
 
 		<div class="search" on:blur={() => (open = false)}>
