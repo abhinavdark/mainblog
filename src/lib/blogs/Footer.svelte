@@ -7,6 +7,9 @@
 		<p>Vegamedia-<a href="https://vegamedia.in">Blogs</a></p>
 		<p>
 			Copyright © 2024 - 2025 Vegamedia ,All Rights Reserved.
+
+
+
 		</p>
 		<div class="social-links">
 			<a href="https://www.instagram.com/vegamedia.online/" title="Instagram" rel="noreferrer" target="_blank"><Icon icon="mdi:instagram" /></a>
