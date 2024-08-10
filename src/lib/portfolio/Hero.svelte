@@ -4,7 +4,7 @@
 <section id="hero" data-scroll-section>
 	<slot />
 	<div class="hero__content" data-scroll>
-		<img src="/img/svg/avatar.svg" alt="">
+		<img src="/static/favicon.png" alt="">
 		<p>Welcome to our blog, your go-to source for insights on business, real estate, wineries, private jets, and interior design. Here, we explore the latest trends and strategies that drive success in these dynamic industries. Whether you’re an entrepreneur or simply curious, our concise articles are designed to inform and inspire. Dive in and discover the keys to thriving in today’s competitive landscape! <a href="/about">here</a> :(</p>
 		
 		<a class="btn" href="/blogs">READ THE BLOG</a>
