@@ -57,7 +57,7 @@
 		</div>
 
 		<a title="Source Code" class="instagram" href="https://www.instagram.com/vegamedia.online/" target="_">
-			<Icon icon="fa:github" />
+			<Icon icon="mdi:instagram" />
 		</a>
 	</header>
 </VanishingHeader>
