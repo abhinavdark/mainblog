@@ -32,11 +32,9 @@
 			<div class="modal-body">
 				<p>
 					Apologies for interrupting. <br />
-					Just a heads up: I <strong>no longer work on the developement of this site.</strong> <a href="/about">What happened?</a>
-				</p>
+					Just a heads up: We’re thrilled to have you here! At Vegamedia, we are passionate about exploring the exciting worlds of business, real estate, wineries, private jets, and interior design.  
 				<p>
-					The articles are mostly placeholders and AI-generated, so <strong>they may contain false information</strong>. They will be deleted however,
-					once the site becomes saturated with actual content.
+					Our mission is to provide you with valuable insights, expert tips, and inspiring stories that empower you on your journey.Whether you’re an entrepreneur, a seasoned professional, or simply curious about these fascinating topics, we invite you to join our community.
 				</p>
 				<p><strong>Thank you! and feel free to explore!</strong></p>
 			</div>
