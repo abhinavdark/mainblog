@@ -4,7 +4,7 @@
 
 <footer>
 	<div class="container">
-		<p>Vegamedia-Blogs<a href="https://vegamedia.in">Github</a></p>
+		<p>Vegamedia-<a href="https://vegamedia.in">Blogs</a></p>
 		<p>
 			Copyright © 2024 - 2025 Vegamedia ,All Rights Reserved.
 		</p>
