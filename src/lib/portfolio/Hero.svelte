@@ -5,7 +5,7 @@
 	<slot />
 	<div class="hero__content" data-scroll>
 		<img src="/img/svg/avatar.svg" alt="">
-		<p>This portfolio isn't completed yet, however it's <strong>not</strong> under construction either. It may get updated once I get time to work on it. More information <a href="/about">here</a> :(</p>
+		<p>Welcome to our blog, your go-to source for insights on business, real estate, wineries, private jets, and interior design. Here, we explore the latest trends and strategies that drive success in these dynamic industries. Whether you’re an entrepreneur or simply curious, our concise articles are designed to inform and inspire. Dive in and discover the keys to thriving in today’s competitive landscape! <a href="/about">here</a> :(</p>
 		
 		<a class="btn" href="/blogs">READ THE BLOG</a>
 	</div>
