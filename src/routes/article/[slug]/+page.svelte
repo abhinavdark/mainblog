@@ -29,17 +29,17 @@
 
 <svelte:head>
 	<!-- Primary Meta Tags -->
-	<title>{data.blogs.title} | NotYasho</title>
-	<meta name="title" content="{data.blogs.title} | NotYasho" />
+	<title>{data.blogs.title} | Vegamedia</title>
+	<meta name="title" content="{data.blogs.title} | Vegamedia" />
 	<meta name="description" content={data.blogs.description} />
 	<meta name="keywords" content={data.blogs.tags.join(', ')} />
 	<meta name="image" content={data.blogs.featuredImage.asset.url + '?w=256&fm=webp'} />
 
 	<!-- Open Graph / Facebook -->
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://notyasho.netlify.app/article/{data.blogs.slug.current}" />
-	<meta property="og:title" content="{data.blogs.title} | NotYasho" />
-	<meta property="og:site_name" content="NotYasho - Explore blogs" />
+	<meta property="og:url" content="https://blogs.Vegamedia.in{data.blogs.slug.current}" />
+	<meta property="og:title" content="{data.blogs.title} | Vegamedia" />
+	<meta property="og:site_name" content=" - Explore blogs" />
 	<meta property="og:description" content={data.blogs.description} />
 	<meta property="og:image:type" content="image/webp" />
 	<meta property="og:image:width" content="256" />
@@ -48,8 +48,8 @@
 
 	<!-- Twitter -->
 	<meta property="twitter:card" content="summary_large_image" />
-	<meta property="twitter:url" content="https://notyasho.netlify.app/article/{data.blogs.slug.current}" />
-	<meta property="twitter:title" content="{data.blogs.title} | NotYasho" />
+	<meta property="twitter:url" content="https://blogs.Vegamedia.in/article/{data.blogs.slug.current}" />
+	<meta property="twitter:title" content="{data.blogs.title} | Vegamedia" />
 	<meta property="twitter:description" content={data.blogs.description} />
 	<meta property="twitter:image" content={data.blogs.featuredImage.asset.url + '?w=256&fm=webp'} />
 </svelte:head>
