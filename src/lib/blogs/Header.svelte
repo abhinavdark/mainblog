@@ -1,6 +1,5 @@
 <script>
 	import Icon from '@iconify/svelte';
-	import Logo from '$lib/Other/logo.svelte';
 	import { goto } from '$app/navigation';
 	import VanishingHeader from './VanishingHeader.svelte';
 
@@ -44,7 +43,7 @@
 <VanishingHeader duration="350ms" offset={50} tolerance={5}>
 	<header class:open>
 		<div class="logo">
-			<Logo />
+			<img src="/static/logo.png" alt="Logo" />
 		</div>
 
 		<div class="search" on:blur={() => (open = false)}>
@@ -82,7 +81,7 @@
 	}
 
 	.logo {
-		:global(svg) {
+		img {
 			margin-top: 2rem;
 			width: 12.5rem;
 		}
