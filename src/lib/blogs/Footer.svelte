@@ -6,12 +6,11 @@
 	<div class="container">
 		<p>Vegamedia-Blogs<a href="https://vegamedia.in">Github</a></p>
 		<p>
-			Made with <span style="color: #eb345e">♥</span> using <a href="https://kit.svelte.dev/">SvelteKit</a>, hosted on
-			<a href="https://www.netlify.com/">Netlify</a>.
+			Copyright © 2024 - 2025 Vegamedia ,All Rights Reserved.
 		</p>
 		<div class="social-links">
 			<a href="https://www.instagram.com/vegamedia.online/" title="Instagram" rel="noreferrer" target="_blank"><Icon icon="mdi:instagram" /></a>
-			<a href="https://www.facebook.com/vegamedia.online" title="Telegram" rel="noreferrer" target="_blank"><Icon icon="basil:facebook" /></a>
+			<a href="https://www.facebook.com/vegamedia.online" title="Telegram" rel="noreferrer" target="_blank"><Icon icon="mdi:facebook" /></a>
 		</div>
 	</div>
 </footer>
