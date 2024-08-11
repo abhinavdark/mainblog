@@ -17,7 +17,7 @@
 	<!-- Open Graph / Facebook -->
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://notyasho.netlify.app/" />
-	<meta property="og:title" content="NotYasho - Portfolio" />
+	<meta property="og:title" content="Blogs | Vegamedia" />
 	<meta
 		property="og:description"
 		content="Vegamedia is a comprehensive digital marketing blog that focuses on empowering businesses to succeed in the online landscape. It offers a variety of insights and strategies related to digital marketing, including SEO, content marketing, social media management, and paid advertising"
@@ -27,7 +27,7 @@
 	<!-- Twitter -->
 	<meta property="twitter:card" content="summary_large_image" />
 	<meta property="twitter:url" content="https://notyasho.netlify.app/" />
-	<meta property="twitter:title" content="NotYasho - Portfolio" />
+	<meta property="twitter:title" content="Blogs | Vegamedia" />
 	<meta
 		property="twitter:description"
 		content="Vegamedia is a comprehensive digital marketing blog that focuses on empowering businesses to succeed in the online landscape. It offers a variety of insights and strategies related to digital marketing, including SEO, content marketing, social media management, and paid advertising"
