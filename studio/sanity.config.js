@@ -9,7 +9,7 @@ export default defineConfig({
   name: 'default',
   title: 'Vegamedia Blog',
 
-  projectId: 'u62jjaxi',
+  projectId: 'lcnmavhm',
   dataset: 'production',
 
   plugins: [deskTool(), unsplashImageAsset(), visionTool(), markdownSchema()],
