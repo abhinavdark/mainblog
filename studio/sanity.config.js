@@ -6,8 +6,9 @@ import {unsplashImageAsset} from 'sanity-plugin-asset-source-unsplash'
 import {markdownSchema} from 'sanity-plugin-markdown'
 
 export default defineConfig({
-  name: 'default',
-  title: 'Vegamedia Blog',
+
+  name: 'cool-studio',   
+  basePath: '/my-default-workspace',
 
   projectId: 'lcnmavhm',
   dataset: 'production',
