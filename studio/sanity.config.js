@@ -7,8 +7,10 @@ import {markdownSchema} from 'sanity-plugin-markdown'
 
 export default defineConfig({
 
-  name: 'cool-studio',   
-  basePath: '/my-default-workspace',
+  project: {
+    basePath: '/studio'
+   },
+
 
   projectId: 'lcnmavhm',
   dataset: 'production',
